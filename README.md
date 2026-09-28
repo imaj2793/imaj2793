@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Gemini-87CEEB?style=for-the-badge&logo=googlegemini&logoColor=ECE8E8" alt="Gemini" />
   <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=claude&logoColor=87CEEB" alt="Claude" />
   <img src="https://img.shields.io/badge/DeepSeek-00BFFF?style=for-the-badge&logo=deepseek&logoColor=ECE8E8" alt="DeepSeek" />
-  <img src="https://img.shields.io/badge/Hermes_Agent-87CEEB?style=for-the-badge&logo=probot&logoColor=ECE8E8" alt="Hermes Agent" />
+  <img src="https://img.shields.io/badge/Hermes_Agent-87CEEB?style=for-the-badge&logo=hermes&logoColor=ECE8E8" alt="Hermes Agent" />
 </p>
 
 <p align="center">
