@@ -6,15 +6,15 @@
 <br>
 
 <!-- Pet Bergerak (White Cat Walking) -->
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/cat-walk.gif" width="150" alt="Walking Pet" />
+<img src="https://www.kasandbox.org/programming-images/misc/cat-walk.gif" width="150" alt="Walking Pet" />
 
 <!-- Efek Mengetik Animasi Biru -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+a+Vibe+Coder;Coding+with+AI,+Powered+by+Vibes;I+don't+memorize,+I+Prompt!;Turning+Ideas+into+Reality" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+a+Vibe+Coder;Coding+with+AI,+Powered+by+Vibes;I+don't+memorize,+I+Prompt!;Turning+Ideas+into+Reality" alt="Typing SVG" />
 
 <br>
 
 <!-- Pet Kucing Sedang Coding (Bongo Cat) -->
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/bongo-cat.gif" width="120" alt="Bongo Cat Coding" />
+<img src="https://gist.githubusercontent.com/brudnak/32733920b48d8aac9df7f20ffe375383/raw/bongo-cat.gif" width="120" alt="Bongo Cat Coding" />
 
 <br>
 
@@ -29,7 +29,7 @@
 ### <img src="https://img.icons8.com/ios-filled/28/00BFFF/bot.png" alt="tech-icon" style="vertical-align: middle; margin-bottom: 4px;" /> My AI & Tech Arsenal
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-00BFFF?style=for-the-badge&logo=openai&logoColor=ECE8E8" alt="ChatGPT" />
+  <img src="https://custom-icon-badges.demolab.com/badge/ChatGPT-00BFFF?style=for-the-badge&logo=openai&logoColor=ECE8E8" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/Gemini-87CEEB?style=for-the-badge&logo=googlegemini&logoColor=ECE8E8" alt="Gemini" />
   <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=claude&logoColor=87CEEB" alt="Claude" />
   <img src="https://img.shields.io/badge/DeepSeek-00BFFF?style=for-the-badge&logo=deepseek&logoColor=ECE8E8" alt="DeepSeek" />
@@ -58,6 +58,6 @@
 <br>
 
 <!-- Animasi Kucing Bawah -->
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/nyan-cat.gif" width="300" alt="Nyan Cat Moving" />
+<img src="https://gist.githubusercontent.com/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/nyan-cat.gif" width="300" alt="Nyan Cat Moving" />
 
 </div>
