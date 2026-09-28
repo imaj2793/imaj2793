@@ -24,7 +24,7 @@
 
 <div align="center">
 
-### <img src="https://img.icons8.com/ios-filled/28/00BFFF/processor.png" alt="tech-icon" style="vertical-align: middle; margin-bottom: 4px;"/> My AI & Tech Arsenal 
+### <img src="https://img.icons8.com/ios-filled/28/00BFFF/bot.png" alt="tech-icon" style="vertical-align: middle; margin-bottom: 4px;"/> My AI & Tech Arsenal 
 
 <p align="center">
   <img src="https://img.shields.io/badge/ChatGPT-00BFFF?style=for-the-badge&logo=openai&logoColor=ECE8E8" alt="ChatGPT" />
