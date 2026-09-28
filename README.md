@@ -24,16 +24,17 @@
 
 <div align="center">
 
-### 🛠️ My AI & Tech Arsenal 
+### <img src="https://img.icons8.com/ios-filled/28/00BFFF/processor.png" alt="tech-icon" style="vertical-align: middle; margin-bottom: 4px;"/> My AI & Tech Arsenal 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-00BFFF?style=for-the-badge&logo=openai&logoColor=ECE8E8" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=87CEEB" />
-  <img src="https://img.shields.io/badge/Claude_AI-87CEEB?style=for-the-badge&logo=anthropic&logoColor=ECE8E8" />
-  <img src="https://img.shields.io/badge/HTML5-00BFFF?style=for-the-badge&logo=html5&logoColor=ECE8E8" />
-  <img src="https://img.shields.io/badge/CSS3-87CEEB?style=for-the-badge&logo=css3&logoColor=ECE8E8" />
-  <img src="https://img.shields.io/badge/JavaScript-00BFFF?style=for-the-badge&logo=javascript&logoColor=ECE8E8" />
-  <img src="https://img.shields.io/badge/Python-87CEEB?style=for-the-badge&logo=python&logoColor=ECE8E8" />
+  <img src="https://img.shields.io/badge/ChatGPT-00BFFF?style=for-the-badge&logo=openai&logoColor=ECE8E8" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Gemini-87CEEB?style=for-the-badge&logo=googlegemini&logoColor=ECE8E8" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Claude_AI-000000?style=for-the-badge&logo=anthropic&logoColor=87CEEB" alt="Claude" />
+  <img src="https://img.shields.io/badge/DeepSeek-00BFFF?style=for-the-badge&logo=deepseek&logoColor=ECE8E8" alt="DeepSeek" />
+  <img src="https://img.shields.io/badge/Hermes_Agent-87CEEB?style=for-the-badge&logo=probot&logoColor=ECE8E8" alt="Hermes Agent" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00BFFF" alt="VS Code" />
 </p>
 
 </div>
@@ -42,7 +43,7 @@
 
 <div align="center">
 
-### 📊 My Vibe Stats & Analytics
+### <img src="https://img.icons8.com/ios-filled/28/00BFFF/combo-chart--v1.png" alt="stats-icon" style="vertical-align: middle; margin-bottom: 4px;"/> My Vibe Stats & Analytics
 
 <!-- Kartu Statistik & Streak yang Sudah Diperbaiki -->
 <p align="center">
