@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Spanduk Langit Biru Full Width dengan Animasi Bintang (Capsule Render) -->
+<!-- Spanduk Langit Biru Full Width dengan Animasi Bintang -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=250&section=header&text=Welcome%20to%20my%20Vibe%20Zone&fontSize=50&fontColor=ECE8E8&animation=twinkling" width="100%" alt="Sky Blue Aesthetic Banner" />
 
 <br>
 
-<!-- Pet Bergerak (White Cat Walking) dari GitHub Raw Assets -->
+<!-- Pet Bergerak (White Cat Walking) -->
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/cat-walk.gif" width="150" alt="Walking Pet"/>
 
 <!-- Efek Mengetik Animasi Biru -->
@@ -26,7 +26,6 @@
 
 ### 🛠️ My AI & Tech Arsenal 
 
-<!-- Menggunakan warna Sky Blue (#00BFFF atau #87CEEB) -->
 <p align="center">
   <img src="https://img.shields.io/badge/ChatGPT-00BFFF?style=for-the-badge&logo=openai&logoColor=ECE8E8" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=87CEEB" />
@@ -45,11 +44,8 @@
 
 ### 📊 My Vibe Stats & Analytics
 
-<!-- Kartu Statistik menggunakan theme=transparent agar tidak error di GitHub -->
+<!-- Kartu Statistik & Streak yang Sudah Diperbaiki -->
 <p align="center">
-  <a href="https://github.com/imaj2793">
-    <img src="https://github-readme-stats.vercel.app/api?username=imaj2793&show_icons=true&theme=transparent&title_color=00BFFF&text_color=D9D9D9&icon_color=00BFFF&hide_border=true&include_all_commits=true" height="170" alt="GitHub Stats" />
-  </a>
   <a href="https://github.com/imaj2793">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=imaj2793&theme=transparent&stroke=00BFFF&ring=87CEEB&fire=00BFFF&currStreakNum=00BFFF&currStreakLabel=87CEEB&sideNums=00BFFF&sideLabels=87CEEB&dates=87CEEB&hide_border=true" height="170" alt="GitHub Streak" />
   </a>
