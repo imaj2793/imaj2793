@@ -27,7 +27,7 @@
 ### <img src="https://img.icons8.com/ios-filled/28/00BFFF/bot.png" alt="tech-icon" style="vertical-align: middle; margin-bottom: 4px;"/> My AI & Tech Arsenal 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-00BFFF?style=for-the-badge&logo=openai&logoColor=ECE8E8" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/ChatGPT-00BFFF?style=for-the-badge&logo=chatgpt&logoColor=ECE8E8" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/Gemini-87CEEB?style=for-the-badge&logo=googlegemini&logoColor=ECE8E8" alt="Gemini" />
   <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=claude&logoColor=87CEEB" alt="Claude" />
   <img src="https://img.shields.io/badge/DeepSeek-00BFFF?style=for-the-badge&logo=deepseek&logoColor=ECE8E8" alt="DeepSeek" />
@@ -54,9 +54,7 @@
 
 <br>
 
-<!-- Animasi Penutup -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="45" alt="Star"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="55" alt="Cloud"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="45" alt="Star"/>
+<!-- Animasi Kucing Bawah -->
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/nyan-cat.gif" width="300" alt="Nyan Cat Moving"/>
 
 </div>
