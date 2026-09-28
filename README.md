@@ -56,11 +56,11 @@
 ### 📊 My Vibe Stats & Analytics
 
 <!-- Kartu Statistik dengan Tema Sky Blue Transparan -->
-<a href="https://github.com/USERNAME_ANDA">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&bg_color=00000000&title_color=00BFFF&text_color=87CEEB&icon_color=00BFFF&hide_border=true&include_all_commits=true" height="170" alt="GitHub Stats" />
+<a href="https://github.com/imaj2793">
+  <img src="https://github-readme-stats.vercel.app/api?username=imaj2793&show_icons=true&bg_color=00000000&title_color=00BFFF&text_color=87CEEB&icon_color=00BFFF&hide_border=true&include_all_commits=true" height="170" alt="GitHub Stats" />
 </a>
-<a href="https://github.com/USERNAME_ANDA">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_ANDA&background=00000000&stroke=00BFFF&ring=87CEEB&fire=00BFFF&currStreakNum=00BFFF&currStreakLabel=87CEEB&sideNums=00BFFF&sideLabels=87CEEB&dates=87CEEB&hide_border=true" height="170" alt="GitHub Streak" />
+<a href="https://github.com/imaj2793">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imaj2793&background=00000000&stroke=00BFFF&ring=87CEEB&fire=00BFFF&currStreakNum=00BFFF&currStreakLabel=87CEEB&sideNums=00BFFF&sideLabels=87CEEB&dates=87CEEB&hide_border=true" height="170" alt="GitHub Streak" />
 </a>
 
 <br><br>
