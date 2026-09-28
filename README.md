@@ -5,9 +5,6 @@
 
 <br>
 
-<!-- Pet Bergerak (White Cat Walking) -->
-<img src="https://www.kasandbox.org/programming-images/misc/cat-walk.gif" width="150" alt="Walking Pet" />
-
 <!-- Efek Mengetik Animasi Biru -->
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+a+Vibe+Coder;Coding+with+AI,+Powered+by+Vibes;I+don't+memorize,+I+Prompt!;Turning+Ideas+into+Reality" alt="Typing SVG" />
 
