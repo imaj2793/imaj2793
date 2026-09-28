@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Spanduk Langit Biru Full Width -->
-<img src="https://i.imgur.com/M6LwRDe.gif" width="100%" alt="Sky Blue Aesthetic Banner" />
+<!-- Spanduk Langit Biru Full Width dengan Animasi Bintang (Capsule Render) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=250&section=header&text=Welcome%20to%20my%20Vibe%20Zone&fontSize=50&fontColor=ECE8E8&animation=twinkling" width="100%" alt="Sky Blue Aesthetic Banner" />
 
 <br>
 
@@ -10,8 +10,6 @@
 
 <!-- Efek Mengetik Animasi Biru -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+a+Vibe+Coder+☁️;Coding+with+AI,+Powered+by+Vibes+✨;I+don't+memorize,+I+Prompt!+🤖;Turning+Ideas+into+Reality+🚀)]()
-
-**"Saya bukan profesional yang hafal syntax dari nol, saya adalah konduktor. AI adalah orkestra saya."** ☁️✨
 
 <br>
 
@@ -28,15 +26,15 @@
 
 ### 🛠️ My AI & Tech Arsenal 
 
-<!-- Menggunakan warna Sky Blue (#00BFFF atau #87CEEB) dikelompokkan rapat seperti UI -->
+<!-- Menggunakan warna Sky Blue (#00BFFF atau #87CEEB) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-00BFFF?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-00BFFF?style=for-the-badge&logo=openai&logoColor=ECE8E8" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=87CEEB" />
-  <img src="https://img.shields.io/badge/Claude_AI-87CEEB?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-00BFFF?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-87CEEB?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-00BFFF?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-87CEEB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_AI-87CEEB?style=for-the-badge&logo=anthropic&logoColor=ECE8E8" />
+  <img src="https://img.shields.io/badge/HTML5-00BFFF?style=for-the-badge&logo=html5&logoColor=ECE8E8" />
+  <img src="https://img.shields.io/badge/CSS3-87CEEB?style=for-the-badge&logo=css3&logoColor=ECE8E8" />
+  <img src="https://img.shields.io/badge/JavaScript-00BFFF?style=for-the-badge&logo=javascript&logoColor=ECE8E8" />
+  <img src="https://img.shields.io/badge/Python-87CEEB?style=for-the-badge&logo=python&logoColor=ECE8E8" />
 </p>
 
 </div>
@@ -47,13 +45,13 @@
 
 ### 📊 My Vibe Stats & Analytics
 
-<!-- Kartu Statistik dengan Tema Sky Blue Transparan dibuat sejajar -->
+<!-- Kartu Statistik menggunakan theme=transparent agar tidak error di GitHub -->
 <p align="center">
   <a href="https://github.com/imaj2793">
-    <img src="https://github-readme-stats.vercel.app/api?username=imaj2793&show_icons=true&bg_color=00000000&title_color=00BFFF&text_color=87CEEB&icon_color=00BFFF&hide_border=true&include_all_commits=true" height="170" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=imaj2793&show_icons=true&theme=transparent&title_color=00BFFF&text_color=D9D9D9&icon_color=00BFFF&hide_border=true&include_all_commits=true" height="170" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/imaj2793">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=imaj2793&background=00000000&stroke=00BFFF&ring=87CEEB&fire=00BFFF&currStreakNum=00BFFF&currStreakLabel=87CEEB&sideNums=00BFFF&sideLabels=87CEEB&dates=87CEEB&hide_border=true" height="170" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=imaj2793&theme=transparent&stroke=00BFFF&ring=87CEEB&fire=00BFFF&currStreakNum=00BFFF&currStreakLabel=87CEEB&sideNums=00BFFF&sideLabels=87CEEB&dates=87CEEB&hide_border=true" height="170" alt="GitHub Streak" />
   </a>
 </p>
 
